@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "SpaceX's most powerful rocket returns to flight and nails synchronized landing - CNN",
+            "description": "SpaceX's Falcon Heavy rocket, the towering launch vehicle known for its boosters' aerial acrobatics and synchronized landings when returning to Earth, took to the skies Sunday, delivering national security payloads to orbit for the US military.",
+            "url": "https://www.cnn.com/2023/01/15/business/spacex-falcon-heavy-launch-ussf-67-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230115182457-03-spacex-launch-011523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-16T02:31:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nSpaceXs Falcon Heavy rocket, the towering launch vehic… [+4606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New York Giants vs. Minnesota Vikings | 2022 Super Wild Card Weekend Game Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=xU_G-l9IKg8",
+            "urlToImage": "https://i.ytimg.com/vi/xU_G-l9IKg8/maxresdefault.jpg",
+            "publishedAt": "2023-01-16T01:04:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Terrifying near-miss between passenger planes at JFK Airport - NBC News",
+            "description": "The pilot of a Delta jet braked moments before colliding with an American Airlines plane. No one was hurt in the incident, but the Delta flight returned to t...",
+            "url": "https://www.youtube.com/watch?v=4gXYGRj9Fm8",
+            "urlToImage": "https://i.ytimg.com/vi/4gXYGRj9Fm8/maxresdefault.jpg",
+            "publishedAt": "2023-01-16T01:00:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Can humanity's new giant leap into space succeed? - BBC",
+            "description": "Humanity is set for its next big leap into space with nations and private companies racing to build outposts on other worlds",
+            "url": "https://www.bbc.com/news/science-environment-64039146",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/100C/production/_128080140_mediumrocket.jpg",
+            "publishedAt": "2023-01-16T00:05:13Z",
+            "content": "There is a new order emerging in space - a race between America and China. But with the demands of space exploration, even these great superpowers won't be able to do it alone. \r\nHugely technically c… [+9152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Lützerath: German police oust climate activists after clashes near coal mine - BBC",
+            "description": "Riot police remove protesters trying to stop the expansion of a coal mine in western Germany.",
+            "url": "https://www.bbc.com/news/world-europe-64285787",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6F90/production/_128306582_0025568a594b08e633348178e2d6242bf83a60430_63_5500_30941000x563.jpg",
+            "publishedAt": "2023-01-15T23:45:12Z",
+            "content": "German police say they have removed almost all climate activists from a German village that will be destroyed to allow the expansion of a coal mine.\r\nHundreds of officers cleared around 300 activists… [+1996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Carol Robinson | crobinson@al.com, Ben Flanagan | bflanagan@al.com, Michael Casagrande | mcasagrande@al.com",
+            "title": "University of Alabama basketball player Darius Miles among 2 charged with capital murder in shooting death on - AL.com",
+            "description": "Tuscaloosa police and UA police were dispatched to the Walk of Champions at Bryant Denny Stadium on a shooting early Sunday morning.",
+            "url": "https://www.al.com/news/tuscaloosa/2023/01/university-of-alabama-basketball-player-darius-miles-among-2-charged-with-capital-murder-in-deadly-shooting-on-the-strip.html",
+            "urlToImage": "https://www.al.com/resizer/5cbM5DXCQ1rCjsMbDCyQ0hKH9XM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JDG5HX2LC5G5ND3FVEU7RNEKVI.JPG",
+            "publishedAt": "2023-01-15T23:40:00Z",
+            "content": "University of Alabama basketball player Darius Miles is one of two suspects charged with capital murder in a predawn deadly shooting on the Strip in Tuscaloosa.\r\nIt was announced Saturday the junior … [+4827 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oscar Holland, CNN\n\nPhoto editor: Jennifer Arnow, CNN",
+            "title": "Best red carpet fashion at the 2023 Critics' Choice Awards - CNN",
+            "description": "See the best looks from LA's Fairmont Century Plaza Hotel, where stars are gathering for the 28th Critics' Choice Awards.",
+            "url": "https://www.cnn.com/style/article/red-carpet-critics-choice-2023/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230115174812-20-critics-choice-red-carpet-lily-james-super-tease.jpg",
+            "publishedAt": "2023-01-15T23:36:06Z",
+            "content": "Oscar Holland, CNNPhoto editor: Jennifer Arnow, CNN"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Bills' Josh Allen breaks NFL legend's record in multiple touchdown performance vs Dolphins - Fox News",
+            "description": "Josh Allen and the Buffalo Bills beat the Miami Dolphins, and the quarterback broke a mark originally held by former Dolphins star Dan Marino.",
+            "url": "https://www.foxnews.com/sports/bills-josh-allen-breaks-nfl-legends-record-multiple-touchdown-performance-vs-dolphins",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Josh-Allen10.jpg",
+            "publishedAt": "2023-01-15T23:35:00Z",
+            "content": "Buffalo Bills quarterback Josh Allen set a new mark on Sunday as his team held off the Miami Dolphins, 34-31.\r\nAllen was 23 for 39 with three touchdown passes and two interceptions. He had touchdown … [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Eric Revell",
+            "title": "Davos 2023: Climate activists protest the presence of oil giants at World Economic Forum - Fox Business",
+            "description": "Climate activists are staging protests in Davos, Switzerland, on the sidelines of this week's World Economic Forum to oppose the presence of oil and gas firms.",
+            "url": "https://www.foxbusiness.com/markets/davos-2023-climate-activists-protest-presence-oil-giants-world-economic-forum",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/GettyImages-1237983644.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-15T22:32:36Z",
+            "content": "Climate activists are crying foul over the presence of many of the world's largest oil and gas firms at this week's World Economic Forum – as protests erupted ahead of the event.\r\nThousands of global… [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, USA TODAY",
+            "title": "Ukraine live updates: 30 dead in Russia strike on apartment building - USA TODAY",
+            "description": "The explosions Saturday smashed through all nine floors of a building in Dnipro, Ukraine, that housed an estimated 1,700 people. Sunday updates.",
+            "url": "https://www.usatoday.com/story/news/world/2023/01/15/ukraine-russia-war-live-updates/11058597002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/15/USAT/3f7c53e4-647e-47dc-a5d6-d4d00fe1501d-AP_Russia_Ukraine_War_25.jpg?auto=webp&crop=3297,1855,x0,y186&format=pjpg&width=1200",
+            "publishedAt": "2023-01-15T22:30:00Z",
+            "content": "The death toll from a Russian missile strike in the southeastern city of Dnipro rose to 30 on Sunday as first responders picked through the rubble of an apartment building looking for survivors and b… [+3526 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "WHO urges China to release more COVID-19 information after Beijing reports 60,000 coronavirus-related deaths - Fox News",
+            "description": "The World Health Organization says it encouraged China to release more COVID-19 data after it reported an estimated 60,000 coronavirus-related deaths since early December.",
+            "url": "https://www.foxnews.com/world/who-urges-china-release-more-covid-19-information-beijing-reports-60000-coronavirus-related-deaths",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/China.jpg",
+            "publishedAt": "2023-01-15T22:01:00Z",
+            "content": "The World Health Organization is urging China to keep releasing COVID-19 data after Beijing on Saturday reported nearly 60,000 coronavirus-related deaths since Dec. 8. \r\nBeijings announcement was the… [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "NY Democratic reps call on McCarthy, GOP to explain when they knew of Santos’s ‘web of lies’ - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2hvdXNlLzM4MTQzODMtbnktZGVtb2NyYXRpYy1yZXBzLWNhbGwtb24tbWNjYXJ0aHktZ29wLXRvLWV4cGxhaW4td2hlbi10aGV5LWtuZXctb2Ytc2FudG9zLXdlYi1vZi1saWVzL9IBhwFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2hvdXNlLzM4MTQzODMtbnktZGVtb2NyYXRpYy1yZXBzLWNhbGwtb24tbWNjYXJ0aHktZ29wLXRvLWV4cGxhaW4td2hlbi10aGV5LWtuZXctb2Ytc2FudG9zLXdlYi1vZi1saWVzL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-15T21:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "68 confirmed dead after plane crashes in central Nepal - CBS News",
+            "description": "A regional passenger plane with 72 aboard crashed into a gorge while landing at a newly opened airport in the resort town of Pokhara, authorities said.",
+            "url": "https://www.cbsnews.com/news/nepal-plane-crash-68-dead-pokhara/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/15/1e5c97bc-d299-4fc2-964f-ea3383c2629d/thumbnail/1200x630/e71343a279668b4058ff13057e3f1c6a/ap23015432803841.jpg",
+            "publishedAt": "2023-01-15T21:32:00Z",
+            "content": "Scores of rescue workers and onlookers crowded near a steep gorge outside a resort town in central Nepal where a regional passenger plane crashed Sunday, as rescuers combed the wreckage on the edge o… [+8346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Miss USA R'Bonney Gabriel Crowned Miss Universe 2022 | E! News - E! News",
+            "description": "Miss USA R'Bonney Gabriel wins the 71st Miss Universe competition. See the crowning moment and highlights from the first American winner since Olivia Culpo i...",
+            "url": "https://www.youtube.com/watch?v=L9D9LrWvhvA",
+            "urlToImage": "https://i.ytimg.com/vi/L9D9LrWvhvA/maxresdefault.jpg",
+            "publishedAt": "2023-01-15T21:21:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mark Maske, Des Bieler, Cindy Boren",
+            "title": "Vikings vs. Giants: NFL playoffs live updates and score - The Washington Post",
+            "description": "The second day of the NFL playoffs kicked off with a Bills win over the Dolphins. Next, the Vikings take on the Giants. Follow along for live updates.",
+            "url": "https://www.washingtonpost.com/sports/2023/01/15/nfl-scores/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UWCWPR44B5HPNE7LJDDPN37UU4.jpg&w=1440",
+            "publishedAt": "2023-01-15T20:45:25Z",
+            "content": "The New York Giants added another achievement Sunday to their return-to-prominence season. They secured their first postseason victory in more than a decade by beating the Minnesota Vikings, 31-24, i… [+587 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Republicans want Biden home visitor logs - but not Trump's - Reuters.com",
+            "description": "The Republican chairman of the House Oversight Committee on Sunday demanded visitor logs for President Joe Biden's house in Wilmington, Delaware, after classified documents were found in his office and garage.",
+            "url": "https://www.reuters.com/world/us/republicans-want-biden-home-visitor-logs-not-trumps-2023-01-15/",
+            "urlToImage": "https://www.reuters.com/resizer/zPwFR-o30JcYKajAzi8ltsY5HxM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DFOODMIVVFNVVNJVG3K5HUKFNQ.jpg",
+            "publishedAt": "2023-01-15T19:28:00Z",
+            "content": "WASHINGTON, Jan 15 (Reuters) - The Republican chairman of the House Oversight Committee on Sunday demanded visitor logs for President Joe Biden's house in Wilmington, Delaware, after classified docum… [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Netanyahu shrugs off protest, says millions of voters demanded judicial overhaul - The Times of Israel",
+            "description": "PM insists coalition's election campaign made clear its intention to rein in courts, warns against 'inflammatory slogans about civil war and the destruction of the state'",
+            "url": "https://www.timesofisrael.com/netanyahu-shrugs-off-protest-says-millions-of-voters-demanded-judicial-overhaul/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/01/F230115YS34-1024x640.jpg",
+            "publishedAt": "2023-01-15T19:07:30Z",
+            "content": "Prime Minister Benjamin Netanyahu on Sunday shrugged off an 80,000-strong rally the night before against the government’s contentious plans to remake the judiciary, telling cabinet ministers that the… [+5549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Rakesh Upadhyay",
+            "title": "5 altcoins that could breakout if Bitcoin price stays bullish - Cointelegraph",
+            "description": "Bulls have taken control of Bitcoin and of the momentum sustains LTC, OKB, BIT and FTM could see strong rallies.",
+            "url": "https://cointelegraph.com/news/5-altcoins-that-could-breakout-if-bitcoin-price-stays-bullish",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/5e1dc803-f1f3-4419-894e-0b5d2312f51e.jpg",
+            "publishedAt": "2023-01-15T19:07:03Z",
+            "content": "The cryptocurrency markets have made a strong comeback in the past few days. That drove the total crypto market capitalization to $995 billion on Jan. 14, according to CoinMarketCap data. Bitcoin (BT… [+8343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Daniel Petrov",
+            "title": "Samsung Galaxy S23 preorder reservations are live, score an S23 Ultra deal! - PhoneArena",
+            "description": "Samsung opened the Galaxy S23 series preorder reservations with early bird deals.",
+            "url": "https://www.phonearena.com/news/samsung-galaxy-s23-preorder-reservations-offer_id144719",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/144719-wide-two_1200/Samsung-Galaxy-S23-preorder-reservations-are-live-score-an-S23-Ultra-deal.jpg",
+            "publishedAt": "2023-01-15T18:50:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf",
+            "title": "Gen Z has a new 'vintage' technology to obsess over - CNN",
+            "description": "First, it was disposable cameras. Then it was low-rise jeans. Now, Gen-Z's latest \"vintage\" obsession is the flip phone -- that mid-1990s era phone that has suddenly become oh so popular with millennials.",
+            "url": "https://www.cnn.com/2023/01/15/business/flip-phone-gen-z-ctrp/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230114180436-flip-phone-gen-z-ctrp.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-15T18:44:00Z",
+            "content": "First, it was disposable cameras. Then it was low-rise jeans. Now, Gen-Zs latest vintage obsession is the flip phone that mid-1990s era phone that has suddenly become oh so popular with millennials.\r… [+7324 chars]"
+        }
+    ]
+}
